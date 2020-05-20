@@ -1,6 +1,6 @@
 ## Overview
 
-This package contains all the material used to conduct the study presented in the paper #88 "The Way it Makes you Feel. Predicting Users' Engagement during Interviews with Biofeedback and Supervised Learning" accepted at the Requirement Engineering Conference. During the study, users have been interviewed with questions concerning the Facebook platform wearing a wristband to collect their biofeedback. After each question, user self-reported their level of engagement elicited by the question using a questionnaire.  
+This package contains all the material used to conduct the study presented in the paper #88 "The Way it Makes you Feel. Predicting Users' Engagement during Interviews with Biofeedback and Supervised Learning" accepted at the Requirement Engineering Conference. During the study, users have been interviewed with questions concerning the Facebook platform. During the interview, users wore a wristband to collect their biofeedback. After each question, user self-reported their level of engagement elicited by the question using a questionnaire.  
 
 Specifically, the package includes the following files: 
 
