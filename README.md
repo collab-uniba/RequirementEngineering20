@@ -7,6 +7,7 @@ Specifically, the package includes the following files:
 - DemographicSurvey.pdf: the demographic survey used to collect information about participants
 - Protocol.pdf: the protocol of the experiment, with a detailed description of each step
 - ElicitationImages.pdf: the slideset of images used both to get participants acquainted with self report and to collected their physiological baseline in absence of emotions (images from 1 to 12)
+- Interview.pdf: the list of questions asked
 - BiometricAnalysis:  scripts used for the machine learning analysis
 
 

@@ -1,6 +1,19 @@
 # INSTALL
 
-The folder "BiometricAnalysis" contains the scripts to replicate the machine learning analysis described in the paper. In particular, the scripts can be used to:
+The folder "BiometricAnalysis" contains the scripts to replicate the machine learning analysis described in the paper. 
+
+To install all the libraries needed to run the scripts use the command: 
+
+```
+Rscript install.R
+```
+### Dependencies
+
+The machine learning analysis is based on the [caret](https://cran.r-project.org/web/packages/caret/index.html) package
+
+### How to use the scripts
+
+In particular, the scripts can be used to:
 
 - to create clusters based on self-report normalized scores for valence and arousal and, consequently, derive the labels to train the classifier.  As input file we used the file "Discretization.xlsx". The command to run the script is:
 
